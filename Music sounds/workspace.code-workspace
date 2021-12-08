@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "sounds",
+			"path": "../Downloads/sounds"
+		},
+		{
+			"name": "OOP",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "OOP"
+	}
+}
